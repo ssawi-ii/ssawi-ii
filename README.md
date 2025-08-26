@@ -23,6 +23,8 @@ Hello, I'm Sawitri, an undergraduate student majoring in Informations Studies at
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssawitri_)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sawitripreedanon@gmail.com) 
 
+# 📜 Check my certificate [here](https://drive.google.com/drive/folders/1t7I9LY9QKLwynsXLBwwAxSfkQDW9lAAX?usp=sharing)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
