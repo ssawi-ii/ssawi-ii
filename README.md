@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Hello, I'm Sawitri, an undergraduate student majoring in Informations Studies at Burapha University.<br>I'm interested in coding, primarily focusing on web development.<br>Currently, I'm learning web development and Python.
+Hello, I'm Sawitri, an undergraduate student majoring in Information Studies at Burapha University.<br>I'm interested in coding, primarily focusing on web development.<br>Currently, I'm learning web development and Python.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssawitri_)
